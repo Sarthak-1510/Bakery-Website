@@ -44,22 +44,11 @@ Tailwind CSS
 PostCSS
 Git & GitHub
 
-### 📸 Glance of Website
-
-🍫 Hero Section – Dutch Chocolate Experience
-<img width="1600" alt="Hero Section" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
-
-🍰 Product Showcase – Rich Chocolate Visuals
-<img width="1600" alt="Product Showcase" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
-
-Premium Experience Section
-<img width="1600" alt="Premium Cocoa Experience" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
-
-🌐 Live Website
+### 🌐 Live Website
 
 https://starlit-figolla-7e84e2.netlify.app
 
-🌍 Impact
+### 🌍 Impact
 
 This project demonstrates:
 
@@ -70,7 +59,7 @@ real-world application of interactive web design
 
 👥 Development
 
-Individually developed as a creative frontend project, focusing on pushing the boundaries of UI/UX and 3D web experiences.
+Individually developed as a creative frontend project, focusing on pushing the boundaries of UI/UX and 3D web experiences. Still A beginner My first ever Anitgravity 3d Project .
 
 🔮 Future Enhancements
 

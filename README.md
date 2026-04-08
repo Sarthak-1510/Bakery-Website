@@ -1,10 +1,10 @@
-Bakery 3D Website – Interactive Digital Experience
+### Bakery 3D Website – Interactive Digital Experience
 
 A modern full-stack 3D bakery website built using Antigravity, designed to deliver an immersive and visually engaging user experience. This platform transforms a traditional bakery website into a dynamic digital storefront with interactive elements, smooth animations, and premium UI design.
 
 The project focuses on combining 3D visuals, modern frontend technologies, and seamless user interactions to enhance how users explore bakery products online.
 
-🎯 Objective
+### 🎯 Objective
 
 The platform aims to:
 
@@ -14,7 +14,7 @@ The platform aims to:
 📱 Ensure responsive design across devices
 🛒 Improve digital presence for bakery businesses
 
-❗ Problem Statement
+### ❗ Problem Statement
 
 Traditional bakery websites are often static and lack user engagement. Common issues include:
 
@@ -26,7 +26,7 @@ ineffective brand presentation
 
 This project solves these problems by introducing a 3D interactive interface, making the browsing experience more engaging, modern, and memorable.
 
-🚀 Features
+### 🚀 Features
 
 🎨 3D Interactive User Interface (Antigravity)
 ⚡ Smooth animations & micro-interactions
@@ -35,7 +35,7 @@ This project solves these problems by introducing a 3D interactive interface, ma
 🧩 Modular and scalable architecture
 🌐 Optimized performance and fast loading
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Next.js
 TypeScript
@@ -44,11 +44,16 @@ Tailwind CSS
 PostCSS
 Git & GitHub
 
-📸 Glance of Website
+### 📸 Glance of Website
 
-🍩 Homepage – Interactive landing experience
-🎂 Product Section – 3D product showcase
-🛒 UI Components – Smooth animated interactions
+🍫 Hero Section – Dutch Chocolate Experience
+<img width="1600" alt="Hero Section" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
+
+🍰 Product Showcase – Rich Chocolate Visuals
+<img width="1600" alt="Product Showcase" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
+
+Premium Experience Section
+<img width="1600" alt="Premium Cocoa Experience" src="https://github.com/user-attachments/assets/bee7aba8-90ab-4c93-b595-133258c69bbb" />
 
 🌐 Live Website
 
